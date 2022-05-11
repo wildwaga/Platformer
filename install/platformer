@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /bin/
+sudo wget 
+python 3 /bin/platformer/game.py
